@@ -1,7 +1,5 @@
 # Density-Based Traffic Light Controller using Arduino
-
-[cover.jpg
-](https://github.com/Sbt07/Density-based-Traffic-Light-Controller/blob/main/Cover.jpg)
+![Cover](https://github.com/Sbt07/Density-based-Traffic-Light-Controller/assets/93910804/6e171cd8-6744-403a-a838-e07b54b98f2f)
 
 ## Overview
 
