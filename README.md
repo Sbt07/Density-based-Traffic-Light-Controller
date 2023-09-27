@@ -33,7 +33,7 @@ This project implements a density-based traffic light controller using an Arduin
 
 4. Upload the sketch to the Arduino board.
 
-5. Connect the Arduino and LED lights to the Arduino following the circuit diagram in the `schematic.png` file.
+5. Connect the Arduino and LED lights to the Arduino following the circuit diagram in the `schematic.jpg` file.
 
 6. Power on the Arduino.
 
