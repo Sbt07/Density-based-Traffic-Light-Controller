@@ -15,6 +15,7 @@ This project implements a density-based traffic light controller using an Arduin
 
 - Arduino Uno or compatible microcontroller.
 - Red, yellow, and green LED lights.
+- Resistors (100 ohms)
 - Jumper wires.
 - Breadboard or custom PCB.
 
